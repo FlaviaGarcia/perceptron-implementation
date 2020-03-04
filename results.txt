@@ -3,6 +3,3 @@ SINGLE LAYER PERCEPTRON:
 - Sequential learning always a little bit worst than batch learning (in terms of convergence speed).
 - If the weights initialization is not optimal the algorithm need more number of epochs to converge. 
 
-MULTIPLE LAYER PERCEPTRON:
-- With 3 nodes in the hidden layer is enough to separate the data points.
-- Not observe differences in the training and validating error between batch learning and sequential learning.  
