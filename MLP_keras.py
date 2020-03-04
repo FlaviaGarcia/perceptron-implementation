@@ -4,6 +4,11 @@
 Created on Sat Jan 25 20:11:05 2020
 
 @author: Flavia García Vázquez
+
+MLP created and trained with Keras. Time series data was used as input. MLP 
+was implemented with 1 hidden layer with the possibility of having 2 hidden
+layers. The result of the MLP predictions are shown in a plot and the MSE is 
+printed.  
 """
 
 import keras
